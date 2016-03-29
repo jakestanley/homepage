@@ -6,9 +6,13 @@
 
 [chocolatey packages](https://chocolatey.org/packages) | [sublime text packages](https://packagecontrol.io/) | [arch user repository](https://aur.archlinux.org/)
 
+### travel
+
+[leeds to huddersfield live departures](http://www.realtimetrains.co.uk/search/advanced/LDS/to/HUD?stp=WVS&show=all&order=wtt&toc=TP) | [travel news](http://www.nationalrail.co.uk/service_disruptions/today.aspx)
+
 ### meta
 
-[time off](https://www.timeoffmanager.com/cpanel/home/) | [time sheets](http://na1.replicon.com/IliadSolutions/main.aspx) | [travel news](http://www.nationalrail.co.uk/service_disruptions/today.aspx) | [reply gifs](http://replygif.net/t)
+[time off](https://www.timeoffmanager.com/cpanel/home/) | [time sheets](http://na1.replicon.com/IliadSolutions/main.aspx) | [reply gifs](http://replygif.net/t)
 
 ### other
 

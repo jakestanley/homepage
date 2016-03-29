@@ -10,9 +10,13 @@
 
 [instapaper](http://instapaper.com/) | [feedly](http://feedly.com/) | [hacker news](http://news.ycombinator.com/) | [reddit](http://reddit.com/) | [youtube](http://youtube.com/) | [synchtube](https://synchtu.be/r/causual) | [simplenote](http://simplenote.com/)
 
+### travel
+
+[huddersfield to leeds live departures](http://www.realtimetrains.co.uk/search/advanced/HUD/to/LDS?stp=WVS&show=all&order=wtt&toc=TP) | [travel news](http://www.nationalrail.co.uk/service_disruptions/today.aspx)
+
 ### meta
 
-[travel news](http://www.nationalrail.co.uk/service_disruptions/today.aspx) | [reply gifs](http://replygif.net/t)
+[reply gifs](http://replygif.net/t)
 
 ### other
 
