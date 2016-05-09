@@ -26,4 +26,4 @@
 
 #### filter webapp console
 
-`^(?!(Initiali[sz]ing|.*Synchronously\sloading|Adding\sHeader|(Clicking|Switching)\sto\spage|History change\sevent\soccurred)).+$`
+`^(?!(Initiali[sz]ing|.*Synchronously\sloading|.*deprecated.*|Adding\sHeader|(Clicking|Switching)\sto\spage|History change\sevent\soccurred)).+$`
